@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capoeira on Capoeria Axè</title>
+    <link>http://capoeirafirenze.com/capoeira/</link>
+    <description>Recent content in Capoeira on Capoeria Axè</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://capoeirafirenze.com/capoeira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pratica</title>
+      <link>http://capoeirafirenze.com/capoeira/pratica/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/capoeira/pratica/</guid>
+      <description>La pratica della Capoeira La pratica della Capoeira prevede una precisa preparazione atletica che consente di utilizzare tutti i movimenti di base, di attacco, di difesa e di tipo acrobatico durante il gioco. Il paragone con le arti marziali emerge dall&amp;rsquo;utilizzo di tali movimenti finalizzati ad un confronto con un avversario ma l’originalità consiste nel seguire il ritmo degli strumenti e nel trasformare l’incontro in un vero e proprio momento creativo.</description>
+    </item>
+    
+    <item>
+      <title>Storia</title>
+      <link>http://capoeirafirenze.com/capoeira/storia/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/capoeira/storia/</guid>
+      <description>Le origini Capoeira è un’arte marziale Brasiliana, tale definizione riesce solo parzialmente a definire la peculiarita’ di tale disciplina. L’origine Africana è da ricondurre al periodo della schiavitù quando etnie diverse furono sradicate dai loro territori per essere trasferiti in Brasile ed utilizzati nelle piantagioni, nelle miniere, nelle case dei loro padroni.
+Strumento di lotta e difesa personale la Capoeira diviene per gli schiavi una vera e propria disciplina difensiva che consente l’opportunità della fuga, la risposta alle violenze subite, la possibilità del raggiungimento dei “Quilombos”, le Repubbliche dove trovavano rifugio gli schiavi fuggitivi e dove si praticava liberamente la Capoeira.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Capoeria Axè</title>
+    <title>Capoeira Axè Firenze on Capoeria Axè</title>
     <link>http://capoeirafirenze.com/</link>
-    <description>Recent content on Capoeria Axè</description>
+    <description>Recent content in Capoeira Axè Firenze on Capoeria Axè</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://capoeirafirenze.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Batizado 2020</title>
+      <link>http://capoeirafirenze.com/eventi/batizado_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/eventi/batizado_2020/</guid>
+      <description>Batizado di Capoeira 2020. Dal 29/05 al 31/05, un fine settimana ricco di emozioni, allenamenti, scambi culturali, musica e festa. Vieni a trovarci alla palestra di San Niccolò
+Venerdì 29 dalle 18:00: allenamento e roda di Capoeira
+Sabato 30 dalle 10:00, allenamenti. stage, roda di Capoeira e la sera cena e festa con musica dal vivo
+Domenica 31 dalle 10:00: Batizado dei bambini la mattina, Batizado adulti pomeriggio</description>
+    </item>
+    
+    <item>
+      <title>Pratica</title>
+      <link>http://capoeirafirenze.com/capoeira/pratica/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/capoeira/pratica/</guid>
+      <description>La pratica della Capoeira La pratica della Capoeira prevede una precisa preparazione atletica che consente di utilizzare tutti i movimenti di base, di attacco, di difesa e di tipo acrobatico durante il gioco. Il paragone con le arti marziali emerge dall&amp;rsquo;utilizzo di tali movimenti finalizzati ad un confronto con un avversario ma l’originalità consiste nel seguire il ritmo degli strumenti e nel trasformare l’incontro in un vero e proprio momento creativo.</description>
+    </item>
+    
+    <item>
+      <title>Storia</title>
+      <link>http://capoeirafirenze.com/capoeira/storia/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/capoeira/storia/</guid>
+      <description>Le origini Capoeira è un’arte marziale Brasiliana, tale definizione riesce solo parzialmente a definire la peculiarita’ di tale disciplina. L’origine Africana è da ricondurre al periodo della schiavitù quando etnie diverse furono sradicate dai loro territori per essere trasferiti in Brasile ed utilizzati nelle piantagioni, nelle miniere, nelle case dei loro padroni.
+Strumento di lotta e difesa personale la Capoeira diviene per gli schiavi una vera e propria disciplina difensiva che consente l’opportunità della fuga, la risposta alle violenze subite, la possibilità del raggiungimento dei “Quilombos”, le Repubbliche dove trovavano rifugio gli schiavi fuggitivi e dove si praticava liberamente la Capoeira.</description>
+    </item>
+    
+    <item>
+      <title>Batizado 2019</title>
+      <link>http://capoeirafirenze.com/eventi/batizado_2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/eventi/batizado_2019/</guid>
+      <description>Batizado di Capoeira 2019. Dal 29/05 al 31/05, un fine settimana ricco di emozioni, allenamenti, scambi culturali, musica e festa. Vieni a trovarci alla palestra di San Niccolò
+Venerdì 29 dalle 18:00: allenamento e roda di Capoeira
+Sabato 30 dalle 10:00, allenamenti. stage, roda di Capoeira e la sera cena e festa con musica dal vivo
+Domenica 31 dalle 10:00: Batizado dei bambini la mattina, Batizado adulti pomeriggio</description>
+    </item>
+    
+    <item>
+      <title>Batizado 2018</title>
+      <link>http://capoeirafirenze.com/eventi/batizado_2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/eventi/batizado_2018/</guid>
+      <description>Batizado di Capoeira 2018. Dal 29/05 al 31/05, un fine settimana ricco di emozioni, allenamenti, scambi culturali, musica e festa. Vieni a trovarci alla palestra di San Niccolò
+Venerdì 29 dalle 18:00: allenamento e roda di Capoeira
+Sabato 30 dalle 10:00, allenamenti. stage, roda di Capoeira e la sera cena e festa con musica dal vivo
+Domenica 31 dalle 10:00: Batizado dei bambini la mattina, Batizado adulti pomeriggio</description>
+    </item>
     
   </channel>
 </rss>

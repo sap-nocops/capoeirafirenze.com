@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Capoeria Axè</title>
+    <link>http://capoeirafirenze.com/en/events/</link>
+    <description>Recent content in Events on Capoeria Axè</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://capoeirafirenze.com/en/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Batizado 2020</title>
+      <link>http://capoeirafirenze.com/en/events/batizado_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/en/events/batizado_2020/</guid>
+      <description>Batizado di Capoeira 2020. Dal 29/05 al 31/05, un fine settimana ricco di emozioni, allenamenti, scambi culturali, musica e festa. Vieni a trovarci alla palestra di San Niccolò
+Venerdì 29 dalle 18:00: allenamento e roda di Capoeira
+Sabato 30 dalle 10:00, allenamenti. stage, roda di Capoeira e la sera cena e festa con musica dal vivo
+Domenica 31 dalle 10:00: Batizado dei bambini la mattina, Batizado adulti pomeriggio</description>
+    </item>
+    
+  </channel>
+</rss>

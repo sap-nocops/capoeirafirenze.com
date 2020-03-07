@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capoeira on Capoeria Axè</title>
+    <link>http://capoeirafirenze.com/br/capoeira/</link>
+    <description>Recent content in Capoeira on Capoeria Axè</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://capoeirafirenze.com/br/capoeira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Historia</title>
+      <link>http://capoeirafirenze.com/br/capoeira/historia/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/br/capoeira/historia/</guid>
+      <description>As origens Capoeira è uma arte marcial Brasileira,essa è somente uma definiçao parcial de tal diciplina.A origem Africana te transporta no periodo da escravidao onde varias etnias foram retiradas do seu territorio para trabalhar nas plantaçoes,nas mineiras, e nas casas do Senhor do Engenho.
+Estrumento de luta e defesa pessoal a Capoeira se torna para os escravos uma verdadeira e propia diciplina defensiva que concente a oportunidade de fuga,a resposta a violencia,a possibilidade de chegar ao Quilombos,a Republica onde encontrava refugio todos os escravos fugitivos e onde se praticava liberamente a capoeira.</description>
+    </item>
+    
+    <item>
+      <title>Pràtica</title>
+      <link>http://capoeirafirenze.com/br/capoeira/pratica/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://capoeirafirenze.com/br/capoeira/pratica/</guid>
+      <description>A pràtica da Capoeira A pràtica da Capoeira exige uma precisa preparaçao atlètica que lhe permite de utilizar todos os movimentos de base, de ataque, de defeza e de tipo acrobatico durante um jogo. A comparaçao com a arte marcial nasce do utilizo desses movimentos finalizando um confronto com um adversario mas a origem consiste em seguir o ritimo dos estrumentos e transformar o confronto em um verdadeiro e propio momento creativo.</description>
+    </item>
+    
+  </channel>
+</rss>
