@@ -23,3 +23,5 @@ _Palestra San Niccolò_
 Mercoledì  17:00 - 19:00
 
 Venerdì	  17:00 - 19:00
+
+### LEZIONE DI PROVA GRATUITA

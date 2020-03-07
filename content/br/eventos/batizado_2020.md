@@ -3,11 +3,11 @@ title: "Batizado 2020"
 date: "2020-03-01"
 ---
 
-Batizado di Capoeira 2020.
-Dal 29/05 al 31/05, un fine settimana ricco di emozioni, allenamenti, scambi culturali, musica e festa. Vieni a trovarci alla palestra di San Niccolò
+Batizado dE Capoeira 2020.
+De 29/05 a 31/05, um fim de semana rico de emoções, treinos, intercâmbios culturais, música e festa. Venha nos visitar na academia San Niccolò
 
-Venerdì 29 dalle 18:00: allenamento e roda di Capoeira
+Sexta Feira 29 de 18:00: treino e roda de Capoeira
 
-Sabato 30 dalle 10:00, allenamenti. stage, roda di Capoeira e la sera cena e festa con musica dal vivo
+Sabado 30 de 10:00; treinos, stage, roda de Capoeira e à noite jantar e festa com música ao vivo
 
-Domenica 31 dalle 10:00: Batizado dei bambini la mattina, Batizado adulti pomeriggio
+Domingo 31 de 10:00: Batizado de crianças de manhã, Batizado de adultos à tarde

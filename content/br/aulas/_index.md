@@ -23,3 +23,5 @@ _Academia San Niccolò_
 Quarta Feira  17:00 - 19:00
 
 Sexta Feira	  17:00 - 19:00
+
+### LIÇÃO DE TESTE GRATUITO

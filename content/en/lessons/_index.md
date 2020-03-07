@@ -23,3 +23,5 @@ _Palestra San Niccolò_
 Wednesday  17:00 - 19:00
 
 Friday	   17:00 - 19:00
+
+### FREE LESSON
