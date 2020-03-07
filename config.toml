@@ -1,0 +1,33 @@
+baseURL = "http://capoeirafirenze.com/"
+languageCode = "it-IT"
+title = "Capoeria Axè"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "it"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  custom_css = ["css/custom.css"]
+  favicon = "images/favicon.ico"
+  description = "Capoeira Axè Firenze"
+  facebook = "https://www.facebook.com/axefirenzecapoeira/"
+  twitter = ""
+  instagram = "https://www.instagram.com/capoeiraaxe/"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  background_color_class = "bg-axe-blue"
+  featured_image = "/images/batizado_2019.jpg"
