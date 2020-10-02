@@ -3,8 +3,11 @@ title: "Batizado 2020"
 date: "2020-03-01"
 ---
 
-Batizado de Capoeira 2019.
-From 290/05 to 31/05, a weekend full of emotions, trainings, cultural exchange, music and party. Come visit us at San Niccolò's gym
+Batizado de Capoeira 2020.
+
+CANCELLED DUE TO CORANAVIRUS EMERGENCY
+
+From 29/05 to 31/05, a weekend full of emotions, trainings, cultural exchange, music and party. Come visit us at San Niccolò's gym
 
 Friday 29 from 6pm: trainings and roda de Capoeira
 
