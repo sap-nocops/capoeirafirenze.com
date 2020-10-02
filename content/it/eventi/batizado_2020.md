@@ -1,5 +1,5 @@
 ---
-title: "Batizado 2020"
+title: "Batizado 2020 (CANCELLATO)"
 date: "2020-03-01"
 ---
 

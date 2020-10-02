@@ -1,9 +1,12 @@
 ---
-title: "Batizado 2020"
+title: "Batizado 2020 (CANCELADO)"
 date: "2020-03-01"
 ---
 
-Batizado dE Capoeira 2020.
+Batizado de Capoeira 2020.
+
+EVENTO CANCELADO POR CORONAVIRUS
+
 De 29/05 a 31/05, um fim de semana rico de emoções, treinos, intercâmbios culturais, música e festa. Venha nos visitar na academia San Niccolò
 
 Sexta Feira 29 de 18:00: treino e roda de Capoeira
