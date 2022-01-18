@@ -9,8 +9,6 @@ disable_share: true
 [{{< figure src="/images/mappa.png" title="" >}}](https://www.openstreetmap.org/note/new?lat=43.76393&lon=11.26131#map=19/43.76383/11.26202&layers=N)
 
 
-**AL MOMENTO LE LEZIONI SONO AL PARCO DELLE CASCINE PER LAVORI ALLA PALESTRA**
-
 Palestra San Niccolò - Via San Miniato 6, Firenze.
 Maestro Boca Nua +39 347 3393296
 

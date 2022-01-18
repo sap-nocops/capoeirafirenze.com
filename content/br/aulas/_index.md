@@ -8,8 +8,6 @@ disable_share: true
 
 [{{< figure src="/images/mappa.png" title="" >}}](https://www.openstreetmap.org/note/new?lat=43.76393&lon=11.26131#map=19/43.76383/11.26202&layers=N)
 
-**NO MOMENTO AS AULAS ESTÃO NO PARQUE DA CASCINE PARA TRABALHOS NA ACEDEMIA**
-
 Academia San Niccolò - Via San Miniato 6, Firenze.
 Mestre Boca Nua +39 347 3393296
 
