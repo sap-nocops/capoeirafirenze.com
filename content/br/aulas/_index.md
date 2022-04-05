@@ -34,7 +34,7 @@ Sexta Feira	    18:00 - 19:00
 
 **Capoeira e acrobacia para adultos**
 
-Quarta Feira  20:30 - 22:30
+Quarta Feira  19:00 - 21:00
 
 Sexta Feira	    19:00 - 21:00
 

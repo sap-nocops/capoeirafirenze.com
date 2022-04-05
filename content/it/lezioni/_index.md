@@ -35,7 +35,7 @@ Venerdì	   18:00 - 19:00
 
 **Capoeira e Acrobatica per Adulti**
 
-Mercoledì  20:30 - 22:30
+Mercoledì  19:00 - 21:00
 
 Venerdì	  19:00 - 21:00
 

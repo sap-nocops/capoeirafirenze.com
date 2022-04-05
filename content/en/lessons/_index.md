@@ -34,7 +34,7 @@ Friday	         18:00 - 19:00
 
 **Capoeira and Acrobatics for adults**
 
-Wednesday  20:30 - 22:30
+Wednesday  19:00 - 21:00
 
 Friday	         19:00 - 21:00
 
