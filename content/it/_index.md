@@ -1,6 +1,7 @@
 ---
 title: "Capoeira Axè Firenze"
 description: "Mestre Boca Nua"
+featured_image: "/images/gruppo.jpg"
 ---
 
 {{< figure src="/images/logo.jpg" title="" >}}

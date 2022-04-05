@@ -6,7 +6,7 @@ title: "Lezioni"
 disable_share: true
 ---
 
-[{{< figure src="/images/mappa.png" title="" >}}](https://www.openstreetmap.org/note/new?lat=43.76393&lon=11.26131#map=19/43.76383/11.26202&layers=N)
+[![map](/images/mappa.png)](https://www.openstreetmap.org/note/new?lat=43.76393&lon=11.26131#map=19/43.76383/11.26202&layers=N)
 
 
 Palestra San Niccolò - Via San Miniato 6, Firenze.
