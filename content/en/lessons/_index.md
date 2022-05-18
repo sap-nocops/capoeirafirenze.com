@@ -11,6 +11,8 @@ disable_share: true
 San Niccolò Gym - Via San Miniato 6, Firenze.
 Master Boca Nua +39 347 3393296
 
+### FREE WEEK LESSON
+
 **Mini Capoeira**
 
 Age 4 - 6
@@ -37,5 +39,3 @@ Friday	         18:00 - 19:00
 Wednesday  19:00 - 21:00
 
 Friday	         19:00 - 21:00
-
-### FREE LESSON

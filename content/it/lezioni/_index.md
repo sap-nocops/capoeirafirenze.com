@@ -12,6 +12,8 @@ disable_share: true
 Palestra San Niccolò - Via San Miniato 6, Firenze.
 Maestro Boca Nua +39 347 3393296
 
+### SETTIMANA DI PROVA GRATUITA
+
 **Mini Capoeira**
 
 Anni 4 - 6
@@ -38,5 +40,3 @@ Venerdì	   18:00 - 19:00
 Mercoledì  19:00 - 21:00
 
 Venerdì	  19:00 - 21:00
-
-### LEZIONE DI PROVA GRATUITA

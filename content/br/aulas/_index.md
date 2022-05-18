@@ -11,6 +11,8 @@ disable_share: true
 Academia San Niccolò - Via San Miniato 6, Firenze.
 Mestre Boca Nua +39 347 3393296
 
+### SEMANA DE TESTE GRATUITO
+
 **Mini Capoeira**
 
 Anos 4 - 6
@@ -37,5 +39,3 @@ Sexta Feira	    18:00 - 19:00
 Quarta Feira  19:00 - 21:00
 
 Sexta Feira	    19:00 - 21:00
-
-### LIÇÃO DE TESTE GRATUITO
