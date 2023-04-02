@@ -7,7 +7,7 @@ date: "2022-05-01"
 
 Batizado Capoeira Axè 2022.
 
-Barizado está de volta!
+Batizado está de volta!
 
 Após dois anos difíceis reabrimos as portas para convidados e capoeristas.
 Sexta-feira 20 e sábado 21 de maio, celebramos a capoeira com música, stages de capoeira e rodas.
