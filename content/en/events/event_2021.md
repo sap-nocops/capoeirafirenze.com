@@ -1,6 +1,8 @@
 ---
 title: "Event 2021"
 date: "2021-06-14"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 Capoeira Event 2021.

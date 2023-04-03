@@ -1,6 +1,8 @@
 ---
 title: "Back To the gym"
 date: "2020-06-01"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 From 03 June 2020 lessons restart at San Niccolò's gym!

@@ -1,7 +1,8 @@
 ---
 title: "Capoeira Axè Firenze"
-description: "Mestre Boca Nua"
 featured_image: "/images/gruppo.jpg"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 {{< figure src="/images/logo.jpg" title="" >}}

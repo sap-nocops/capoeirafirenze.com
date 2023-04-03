@@ -1,9 +1,8 @@
 ---
-description: ""
 featured_image: "/images/palestra.jpg"
-tags: []
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 title: "Aulas"
-disable_share: true
 ---
 
 [![map](/images/mappa.png)](https://www.openstreetmap.org/note/new?lat=43.76393&lon=11.26131#map=19/43.76383/11.26202&layers=N)

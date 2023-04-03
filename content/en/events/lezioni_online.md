@@ -1,6 +1,8 @@
 ---
 title: "Online Lessons"
 date: "2020-04-10"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 Capoeira never stops, not even in front of the worst problem.

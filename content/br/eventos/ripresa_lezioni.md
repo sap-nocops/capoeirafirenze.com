@@ -1,6 +1,8 @@
 ---
 title: "Voltar a academia"
 date: "2020-06-01"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 A partir de 03 de junho de 2020, as aulas serão retomadas na academia do San Niccolò!

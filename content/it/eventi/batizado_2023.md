@@ -1,6 +1,8 @@
 ---
 title: "Batizado 2023"
 date: "2023-04-02"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 {{< figure src="/images/batizado_2023_copertina.jpg" title="" >}}

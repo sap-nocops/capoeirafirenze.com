@@ -1,6 +1,8 @@
 ---
 title: "Batizado 2020 (CANCELLATO)"
 date: "2020-03-01"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 Batizado di Capoeira 2020.

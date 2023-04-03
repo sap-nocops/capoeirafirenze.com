@@ -1,6 +1,8 @@
 ---
 title: "Lavori palestra San Niccolò"
 date: "2021-08-30"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 Dal 08 Settembre 2021 le lezioni continueranno all'aperto alle cascine.

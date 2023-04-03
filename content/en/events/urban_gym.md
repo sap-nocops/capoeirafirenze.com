@@ -1,6 +1,8 @@
 ---
 title: "Exibithion Urban Gym"
 date: "2018-10-20"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 

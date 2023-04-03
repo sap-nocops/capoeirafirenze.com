@@ -1,6 +1,6 @@
 baseURL = "http://capoeirafirenze.com/"
 languageCode = "it-IT"
-title = "Capoeria Axè"
+title = "Capoeria Axè Firenze"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
@@ -31,7 +31,7 @@ enableRobotsTXT = true
 [params]
   custom_css = ["css/custom.css"]
   favicon = "images/favicon.ico"
-  description = "Capoeira Axè Firenze"
+  description = "Capoeira Axè, capoeira Firenze"
   facebook = "https://www.facebook.com/axefirenzecapoeira/"
   twitter = ""
   instagram = "https://www.instagram.com/capoeiraaxe/"
@@ -44,3 +44,4 @@ enableRobotsTXT = true
   stackoverflow = ""
   background_color_class = "bg-axe-blue"
   featured_image = "/images/gruppo.jpg"
+  env = "production"

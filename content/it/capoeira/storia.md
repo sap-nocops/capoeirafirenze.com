@@ -1,6 +1,8 @@
 ---
 title: "Storia"
 date: "2020-01-01"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 # Le origini

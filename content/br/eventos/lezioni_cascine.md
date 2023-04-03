@@ -1,6 +1,8 @@
 ---
 title: "Aulas ao ar livre"
 date: "2021-05-03"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 {{< figure src="/images/cascine.jpg" title="Mestre tocando berimbau" >}}

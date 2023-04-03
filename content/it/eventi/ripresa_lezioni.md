@@ -1,6 +1,8 @@
 ---
 title: "Rientro in palestra"
 date: "2020-06-01"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 Dal 03 Giugno 2020 riprendono le lezioni nella palestra San Niccolò!

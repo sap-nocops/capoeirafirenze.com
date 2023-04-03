@@ -1,6 +1,8 @@
 ---
 title: "Obras de restauração na acedemia de San Niccolò"
 date: "2021-08-30"
+tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè"]
+description: "Gruppo Capoeira Axè. capoeira Firenze"
 ---
 
 A partir de 08 de setembro de 2021 as aulas continuarão ao parco delle cascine.
