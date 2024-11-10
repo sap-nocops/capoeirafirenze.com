@@ -1,11 +1,11 @@
 ---
 title: "Roda Zumbi's death anniversary (Black Awareness Day)"
-date: "2024-11-22"
+date: "2024-11-09"
 tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè", "zumbi", "roda"]
 description: "Capoeira Axè group. capoeira Firenze. Roda Zumbi dos Palmares's death anniversary"
 ---
 
-{{< figure src="/images/evento_zumbi_novembre_2024.jpeg" title="evento_zumbi_novembre_2024" >}}
+{{< figure src="/images/evento_zumbi_novembre_2024.jpeg" title="" >}}
 
 Roda Zumbi's death anniversary (Black Awareness Day).
 

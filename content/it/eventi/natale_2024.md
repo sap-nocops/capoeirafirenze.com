@@ -1,18 +1,14 @@
 ---
-title: "Roda Anniversario Morte Zumbi (Giornata della Coscienza Nera)"
-date: "2024-11-22"
+title: "Natale Gruppo Axè"
+date: "2024-11-23"
 tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè", "zumbi", "roda"]
-description: "Gruppo Capoeira Axè. capoeira Firenze. Roda per anniversario morte Zumbi dos Palmares"
+description: "Festa di Natale Gruppo Capoeira Axè"
 ---
 
-{{< figure src="/images/evento_zumbi_novembre_2024.jpeg" title="evento_zumbi_novembre_2024" >}}
+{{< figure src="/images/evento_natale_2024.jpeg" title="" >}}
 
-Roda Anniversario Morte Zumbi (Giornata della Coscienza Nera).
-
-Il 22 novembre alla palestra di San Nicolo dalle ore 19:00.
-Verrà effettuata una roda per commemorare Zumbi dos palmares nell'anniversario della sua morte.
-Saranno presenti Mestres e altri invitati
+Come tutti gli anni il grupo Axè festeggia il Natale
+con una giornata di capoeira alla palestra di San Niccolò.
+Il 13 dicembre dalle ore 19:00
 
 Axè!
-
-https://it.wikipedia.org/wiki/Zumbi

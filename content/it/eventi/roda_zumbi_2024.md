@@ -1,11 +1,11 @@
 ---
 title: "Roda Anniversario Morte Zumbi (Giornata della Coscienza Nera)"
-date: "2024-11-22"
+date: "2024-11-09"
 tags: ["capoeira", "Firenze", "mestre boca nua", "boca nua", "capoeira axè", "zumbi", "roda"]
 description: "Gruppo Capoeira Axè. capoeira Firenze. Roda per anniversario morte Zumbi dos Palmares"
 ---
 
-{{< figure src="/images/evento_zumbi_novembre_2024.jpeg" title="evento_zumbi_novembre_2024" >}}
+{{< figure src="/images/evento_zumbi_novembre_2024.jpeg" title="" >}}
 
 Roda Anniversario Morte Zumbi (Giornata della Coscienza Nera).
 
